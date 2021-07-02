@@ -1,1 +1,1 @@
-This directory is used to store related header files from SNPE. For specific information, please refer to the [top-level README](../../../../README.md).
+This directory is used to store related header files from the Neural Processing for AI SDK snpe-x.xx.x/lib/dsp. For specific information, please refer to the [top-level README](../../../../README.md).
